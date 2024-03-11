@@ -2,3 +2,4 @@
 pin: # Output pin controlling the fan. This parameter must be provided.
 max_power: 1.0
 off_below: 0.3
+kick_start_time: 1.000
