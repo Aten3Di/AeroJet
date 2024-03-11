@@ -11,6 +11,12 @@ It is an economical alternative to the highest performing peripheral fans (e.g. 
 # Where do I buy the necessary parts?
 All the parts needed to build AeroJet can be found on Aliexpress. We have created a BOM file listing all the pieces that will be needed, nothing excluded!
 
+# Wiring diagram
+In the fan purchased, the wiring to the potentiometer must be cut (to be eliminated), the red 5v power cable must be eliminated and the black (FAN PIN GND) and yellow (FAN PIN 5v) cable must be connected to the motherboard. The red and black power cables must be connected to the 24v PSU
+
+![AeroJet wiring copia](https://github.com/Aten3Di/AeroJet/assets/157801526/84e781d6-7af5-4185-8e95-223e570e039b)
+
+
 # Who is Aten?
 Aten is a startup that produces components for very high performance industrial FDM 3D printers.
 For us too, it all started with a DIY 3D printer in 2012, a passion that turned into a job that we do with passion and dedication. We believe in open source as a necessary means for the evolution of the AM world.
