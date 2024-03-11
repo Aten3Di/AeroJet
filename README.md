@@ -1,7 +1,8 @@
 # AeroJet
 AeroJet is an ultra-high flow, ultra-high pressure ventilation system for FDM/FFF 3D printers
 
-![AeroJet_4028_v1 0-02](https://github.com/Aten3Di/AeroJet/assets/157801526/6920cb65-f236-4306-bfc6-27e637697bb2)
+![AeroJet_4028_v1 0-02 -logo](https://github.com/Aten3Di/AeroJet/assets/157801526/8966dc5d-0db5-4ddb-9c4a-ce3110f193c8)
+
 
 # What is AeroJet?
 AeroJet is a fan with high air flow and high static pressure designed for high speed FDM 3D printing and high extrusion flow (therefore also for printers of large dimensions). 
