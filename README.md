@@ -17,7 +17,7 @@ In the fan purchased, the wiring to the potentiometer must be cut (to be elimina
 ![AeroJet wiring copia](https://github.com/Aten3Di/AeroJet/assets/157801526/84e781d6-7af5-4185-8e95-223e570e039b)
 
 
-# Who is Aten?
+# What is Aten?
 Aten is a startup that produces components for very high performance industrial FDM 3D printers.
 For us too, it all started with a DIY 3D printer in 2012, a passion that turned into a job that we do with passion and dedication. We believe in open source as a necessary means for the evolution of the AM world.
 
