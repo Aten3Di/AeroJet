@@ -18,8 +18,8 @@ In the fan purchased, the wiring to the potentiometer must be cut (to be elimina
 
 
 # What is Aten?
-Aten is a startup that produces components for very high performance industrial FDM 3D printers.
-For us too, it all started with a DIY 3D printer in 2012, a passion that turned into a job that we do with passion and dedication. We believe in open source as a necessary means for the evolution of the AM world.
+Aten is a startup that produces components for very high-performance industrial FDM 3D printers.
+For us too, it all started with a DIY 3D printer in 2012, a passion that turned into a job that we carry out with dedication. We believe in open source as a necessary means for the evolution of the AM world.
 
 # Why is AeroJet open source?
 We want to support the development of new open source technologies because only by sharing can we get the most out of everything we develop!
